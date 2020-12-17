@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://kratzert.github.io"
+url: "https://hemang.engineer"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -34,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+avatar: "https://media-exp1.licdn.com/dms/image/C5603AQFcmrhMeJ8WNw/profile-displayphoto-shrink_400_400/0/1592021158975?e=1613606400&v=beta&t=HSRIkcFDdAns9ydwkVjsvsBMHz3g4pNw8ZUKYI9ZgII"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
