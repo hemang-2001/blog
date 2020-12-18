@@ -23,13 +23,13 @@ description: A virtual proof that my name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+ About Me: "aboutme"
  # Open Learning: "openlearning"
  # Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+#    - GitHub Pages: "https://pages.github.com/"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -114,7 +114,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-#timezone: "Asia/kolkata"
+timezone: "Asia/kolkata"
 markdown: kramdown
 highlighter: rouge
 #permalink: /:year/:month/:day/:title/.html
