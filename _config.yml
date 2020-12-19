@@ -25,7 +25,7 @@ description: A virtual proof that my name is awesome!
 navbar-links:
  About Me: "aboutme"
  # Open Learning: "openlearning"
- # Projects: "projects"
+   GitHub repo: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
