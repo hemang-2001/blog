@@ -8,10 +8,3 @@ fields:
 - type: text
   name: title
   label: title
-- name: add_photos
-  type: file
-  config:
-    maxSize: 64
-  label: Add photos
-pages:
-- _posts/test-03.md
