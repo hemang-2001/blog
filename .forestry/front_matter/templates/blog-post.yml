@@ -17,3 +17,5 @@ fields:
     time_format: 
     display_utc: false
   label: Date
+pages:
+- _posts/2020-12-18-test-2.md
