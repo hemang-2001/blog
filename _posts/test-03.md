@@ -4,4 +4,5 @@ title: Test:03
 add_photos: "/wp2757832-wallpaper-gif.gif"
 
 ---
-test
+test  
+![](/uploads/wp2757832-wallpaper-gif.gif)
