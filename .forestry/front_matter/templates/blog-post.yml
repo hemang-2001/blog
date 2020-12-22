@@ -8,6 +8,15 @@ fields:
 - type: text
   name: title
   label: title
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
 pages:
 - _posts/2020-12-18-test-2.md
 - _posts/test-04.md
