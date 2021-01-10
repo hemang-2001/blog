@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Cyber Security & Python**
 
-- 👨‍💻 All of my projects are available at [hemang.engineer](hemang.engineer)
+- 👨‍💻 All of my projects are available at [https://hemang.engineer](https://hemang.engineer)
 
 - 📫 How to reach me [hamang2001@gmail.com](mailto:hamang2001@gmail.com)
 
-- 📄 Know about my experiences [https://www.cakeresume.com/hemang-bairwa](https://www.cakeresume.com/hemang-bairwa)
+- 📄 Know about my experiences [Resume](https://www.cakeresume.com/hemang-bairwa)
 
 - ⚡ Fun fact **"sometimes i do mistakes but i learn from them"**
 
